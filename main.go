@@ -60,3 +60,7 @@ func task22() {
 
 	fmt.Printf("a = %v, b = %v\n", a, b)
 }
+
+
+
+/*initioal
